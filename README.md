@@ -2,8 +2,7 @@
 - 👀 I’m interested in studing
 - 🌱 I’m currently learning programar
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me raonyzin@gmail.com
 
 <!---
 IGloony/IGloony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
